@@ -1,2 +1,2 @@
-#!/usr/bin/python3 
- import printing_easy
+#!/usr/bin/python3
+import printing_easy
